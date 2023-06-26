@@ -1,4 +1,4 @@
-![image](https://github.com/saak01/ShoppingList-Flutter/assets/86193726/4902f6e0-b106-46b4-b486-2fefb1ea6bad)<h1>Shopping List</h1>
+<h1>Shopping List</h1>
 
 O "Shopping List" é um aplicativo criado por mim em Flutter, projetado especificamente para auxiliar na criação e gerenciamento de listas de mercado. Com este aplicativo, você pode adicionar e remover itens na sua lista de compras de forma fácil e conveniente. Os dados da lista estão conectados a um backend no Firebase, garantindo a sincronização e o acesso aos seus dados em diferentes dispositivos.
 
